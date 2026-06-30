@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3l0161/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 謝氏鬼神列傳下邳陳超為鬼君弼所逐改名何規從餘杭步道還求福絶不敢出入五年後意漸替解與親舊臨水戲酒酣共說往來超云不復畏此鬼也小俯首乃見鬼影在水中超驚怖時亦有乘馬者超借馬騎之下鞭奔驅此鬼與超遠近常如初微聞鬼云汝何規耶急急就死御覽三百五十九
+  hash: sha256:ce664dc17a55f3040af5090ac356835ae73d0f750445512f6e460e92b8a6ad40
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3l0161_CHANT_001-1a.1-h}
+metadata:
+  title: 謝氏鬼神列傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3l0161.xml
+hash: sha256:3ded510cf04561ec4953aa88794b4c758a053a0be3e62637085c4be9e9401c1e
