@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3l0161_001.yaml, hash: 'sha256:3ded510cf04561ec4953aa88794b4c758a053a0be3e62637085c4be9e9401c1e'}
+  - {seq: 1, filename: KR3l0161_001.yaml, hash: 'sha256:fee0821b9944de24c8b7dfb8faef6d4f4e0c227761fe69b7de300a31175ee784'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3l0161_001.markers.yaml, hash: 'sha256:838feb8ed1cc3d3fc84863cf2556257837951a6fdd674185d88d11a5eb3e5b04'}
+  - {seq: 1, role: markers, filename: assets/KR3l0161_001.markers.yaml, hash: 'sha256:0a551d33ff5fc39c178ecd53e0e0f5c6f15d5399bbd8005330a53f177ac9ce42'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 謝氏鬼神列傳
   type: section
   level: 1
-hash: sha256:6b3c7ba4a9d0999c8ea1579be6e76567c2a0842a2a5b6dff25c2bc3cb8856d59
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:394aca2fc94f4860af18d785b1099d38fae5cd4888839c684350ec05fbde858d
